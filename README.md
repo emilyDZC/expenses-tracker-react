@@ -1,1 +1,1 @@
-View app at [expense-tracker12345.herokuapp.com](https://expense-tracker12345.herokuapp.com/)
+App completed from a Traversy Media tutorial, previously hosted on heroku but not currently live.
